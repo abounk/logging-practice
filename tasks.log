@@ -1,0 +1,8 @@
+root WARNING: Someone trying to login with id=Tim
+root Level 35: This will cause an error
+root ERROR: expected byte-like object not int()
+root CRITICAL: No module name 'Assignment'
+root WARNING: Someone trying to login with id=Tim
+loveISP Level 35: This will cause an error
+root ERROR: expected byte-like object not int()
+root CRITICAL: No module name 'Assignment'
